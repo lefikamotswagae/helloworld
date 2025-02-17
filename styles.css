@@ -25,6 +25,7 @@ text-align: center;
 
 }
 
+
 header h1 {
 
 margin: 0;
@@ -83,6 +84,8 @@ position: fixed;
 bottom: 0;
 
 width: 100%;
+
+}
 p {
 
 font-size: 1.1em;
@@ -104,18 +107,17 @@ a:hover {
 text-decoration: underline;
 
 }
-  img {
+img {
 
 border: 5px solid #4CAF50;
 
 border-radius: 10px;
 
 }
-  main a[href^="mailto:"] {
+main a[href^="mailto:"] {
 
 color: #ff5722;
 
 font-weight: bold;
 
-}
 }
